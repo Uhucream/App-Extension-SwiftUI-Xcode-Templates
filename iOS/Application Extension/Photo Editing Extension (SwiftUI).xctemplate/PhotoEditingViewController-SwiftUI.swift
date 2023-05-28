@@ -31,8 +31,6 @@ class ___FILEBASENAME___: UIViewController, PHContentEditingController {
             contentViewHostingController.view.rightAnchor.constraint(equalTo: self.view.rightAnchor),
             contentViewHostingController.view.centerYAnchor.constraint(equalTo: self.view.centerYAnchor),
         ])
-
-        contentViewHostingController.view.backgroundColor = .clear
     }
 
     // MARK: - PHContentEditingController
