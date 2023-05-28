@@ -1,13 +1,13 @@
 import SwiftUI
 
-struct PhotoEditingView: View {
+struct ContentView: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
-struct PhotoEditingView_Previews: PreviewProvider {
+struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        PhotoEditingView()
+        ContentView()
     }
 }

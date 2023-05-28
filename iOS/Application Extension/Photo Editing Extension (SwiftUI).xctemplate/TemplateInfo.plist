@@ -107,16 +107,16 @@
 						</dict>
 						<key>Nodes</key>
 						<array>
-							<string>PhotoEditingView.swift</string>
+							<string>ContentView.swift</string>
 							<string>PhotoEditingViewController.swift</string>
 							<string>Info.plist:NSExtension_NoStoryboards</string>
 						</array>
 						<key>Definitions</key>
 						<dict>
-							<key>PhotoEditingView.swift</key>
+							<key>ContentView.swift</key>
 							<dict>
 								<key>Path</key>
-								<string>PhotoEditingView.swift</string>
+								<string>ContentView.swift</string>
 							</dict>
 							<key>PhotoEditingViewController.swift</key>
 							<dict>
