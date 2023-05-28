@@ -4,7 +4,6 @@ import SwiftUI
 import Photos
 import PhotosUI
 
-@objc(___FILEBASENAME___)
 class ___FILEBASENAME___: UIViewController, PHContentEditingController {
 
     var input: PHContentEditingInput?

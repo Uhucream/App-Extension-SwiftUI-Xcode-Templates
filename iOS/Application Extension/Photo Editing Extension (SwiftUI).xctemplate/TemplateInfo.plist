@@ -190,7 +190,7 @@
     &lt;key&gt;NSExtensionPointIdentifier&lt;/key&gt;
     &lt;string&gt;com.apple.photo-editing&lt;/string&gt;
     &lt;key&gt;NSExtensionPrincipalClass&lt;/key&gt;
-    &lt;string&gt;PhotoEditingViewController&lt;/string&gt;
+    &lt;string&gt;$(PRODUCT_MODULE_NAME).PhotoEditingViewController&lt;/string&gt;
 &lt;/dict&gt;
 </string>
 	</dict>
